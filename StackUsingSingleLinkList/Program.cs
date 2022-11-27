@@ -23,7 +23,7 @@ namespace StackUsingSingleLinkList
         {
             top = null;
         }
-        bool empty()
+        public bool empty()
         {
             if (top == null)
             {
